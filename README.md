@@ -20,6 +20,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
 More complex builds:
  * Add `gcov`: [travis_qmake_gcc_cpp14_boost_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_boost_gcov)
  * Add `OCLint`: [travis_qmake_gcc_cpp14_boost_oclint](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_boost_oclint)
+ * Add `Qt5`: [travis_qmake_gcc_cpp14_boost_qt5](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_boost_qt5)
 
 Simpler builds:
  * Libraries: `STL` only: [travis_qmake_gcc_cpp14](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14)
