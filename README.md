@@ -18,6 +18,8 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * Source: one single file, `main.cpp`
 
 More complex builds:
+ * Add Boost.Graph (and Graphviz): [travis_qmake_gcc_cpp14_boost_graph](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_boost_graph)
+ * Add Boost.Test: [travis_qmake_gcc_cpp14_boost_test](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_boost_test)
  * Add `gcov`: [travis_qmake_gcc_cpp14_boost_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_boost_gcov)
  * Add `OCLint`: [travis_qmake_gcc_cpp14_boost_oclint](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_boost_oclint)
  * Add `Qt5`: [travis_qmake_gcc_cpp14_boost_qt5](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_boost_qt5)
