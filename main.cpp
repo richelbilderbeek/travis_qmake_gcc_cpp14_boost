@@ -7,6 +7,7 @@ auto f() noexcept
   return boost::num_vertices(g);
 }
 
-int main() {
+int main() 
+{
   if (f() != 1) return 1;
 }
